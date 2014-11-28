@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c6484278da2e8ab4c9bf36f86b50c887
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - groundPoint: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - bigBullet: {instanceID: 0}
+  - biggestBullet: {instanceID: 0}
+  - healthMeter: {instanceID: 0}
+  - speedText: {instanceID: 0}
+  - distanceText: {instanceID: 0}
+  - death: {fileID: 8300000, guid: 8f1103b8d5d97714db6fa8e2f0b006fc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
